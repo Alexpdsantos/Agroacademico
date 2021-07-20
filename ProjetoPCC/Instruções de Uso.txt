@@ -1,0 +1,36 @@
+Para Utilizacao do AgroAcademico Voce deve: 
+
+-Ter instalado o MySQL Server (8.0 se possivel)
+-Jogar o Script.sql direto no seu disco C:
+-executar a Command Line do MySQL Client
+-digitar os Comandos:
+	create database pcc;
+		Preccione Enter.
+	use pcc;
+		Preccione Enter.
+-Em Seguida, digite o comando: 
+	source C:\Script.sql
+		Preccione Enter.
+-Aguarde a execucao das Query's
+-Digite o comando:
+	SHOW TABLES;
+		Preccione Enter.
+Serão Mostradas as seguintes Tabelas:
++----------------------+
+| Tables_in_pcc        |
++----------------------+
+| beneficiar           |
+| cadastrarproduto     |
+| cadastrartalhao      |
+| estoquebeneficiado   |
+| produto              |
+| relatoriobeneficiado |
+| relatoriobeneficiar  |
+| relatorioproduto     |
+| relatorioprodutos    |
+| relatoriotalhao      |
+| relatoriovendas      |
+| venderproduto        |
++----------------------+
+-Pronto, Basta rodar o "Gerenciador Agroacademico-exe".
+Bom Uso...

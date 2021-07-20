@@ -1,0 +1,27 @@
+INDEX VERSION 1.131+C:\Users\lequi\OneDrive\Área de Trabalho\ProjetoPCC\src\.metadata\.plugins\org.eclipse.jdt.core
+324210601.index
+593591719.index
+424883510.index
+4082287201.index
+2681781266.index
+1607218887.index
+2142118396.index
+369908459.index
+463907448.index
+2807895612.index
+3720473830.index
+2380796337.index
+2595650213.index
+2692971258.index
+235037437.index
+1046163331.index
+4128526021.index
+3388157364.index
+2451074059.index
+380405895.index
+742803532.index
+1626953835.index
+3037801764.index
+2067973008.index
+4151073000.index
+1076808299.index
